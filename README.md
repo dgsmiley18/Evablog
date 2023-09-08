@@ -6,7 +6,7 @@ Evablog is a oldschool website created as a test for my college
 
 You can access the website with the link below
 
-https://douglasvianna230.neocities.org/
+https://evablog.vercel.app
 
 ## Contributing
 
